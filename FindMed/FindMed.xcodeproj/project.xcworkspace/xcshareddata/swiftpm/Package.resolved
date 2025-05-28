@@ -1,0 +1,33 @@
+{
+  "originHash" : "0bda4ca2a30a5ab240b23453d31d807486eaeb9ec43131291eef24d53825ddca",
+  "pins" : [
+    {
+      "identity" : "locationpickerforswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alessiorubicini/LocationPickerForSwiftUI",
+      "state" : {
+        "revision" : "aeb1aea83e887676a6dc369566040748773b418d",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "multislider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yonat/MultiSlider",
+      "state" : {
+        "revision" : "b16ea48cbccd86ee6e4cc07f9e0e536683f90e8e",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "sweeterswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yonat/SweeterSwift",
+      "state" : {
+        "revision" : "c9e34c454ba4d5b7b6a81c766bb3337fb6e21dfc",
+        "version" : "1.2.6"
+      }
+    }
+  ],
+  "version" : 3
+}

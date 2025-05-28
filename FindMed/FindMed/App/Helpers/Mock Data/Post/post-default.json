@@ -1,0 +1,127 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "hospitalID": "7b9e8f25-4a6d-4d2b-8e5c-2a6c785b7e90",
+    "hospitalName": "City Hospital",
+    "location": {
+      "address": "456 Hospital Street",
+      "city": "MedCity",
+      "state": "California",
+      "zipCode": "90210",
+      "country": "USA"
+    },
+    "title": "Cardiologist Needed",
+    "description": "Looking for an experienced cardiologist to join our team and handle both outpatient and inpatient cases.",
+    "qualifications": "MBBS, MD (Cardiology), 5+ years of experience in cardiology.",
+    "shiftTime": {
+      "from": 768643200.0,
+      "to": 768758931.0
+    },
+    "wages": 1200,
+    "openings": 3,
+    "applicants": 1,
+    "postedDate": 768556800.0,
+    "deadline": 768643200.0,
+    "isActive": true
+  },
+  {
+    "id": "d94f6f0f-2b60-4f2a-8fd1-df3e2a8e624f",
+    "hospitalID": "a81b9f30-9c92-4c3d-91b2-f6a4e3e5d0c9",
+    "hospitalName": "Downtown Health Center",
+    "location": {
+      "address": "789 Wellness Avenue",
+      "city": "Healthville",
+      "state": "New York",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "title": "Pediatrician Required",
+    "description": "Seeking a compassionate pediatrician to provide care for infants, children, and adolescents.",
+    "qualifications": "MBBS, MD (Pediatrics), 3+ years of experience in pediatric care.",
+    "shiftTime": {
+      "from": 768643200.0,
+      "to": 768600531.0
+    },
+    "wages": 1100,
+    "openings": 2,
+    "applicants": 0,
+    "postedDate": 768600531.0,
+    "deadline": 768600531.0,
+    "isActive": true
+  },
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "hospitalID": "f5d3a9c7-2bfa-4d68-8616-3a7e4b4c2d84",
+    "hospitalName": "Green Valley Hospital",
+    "location": {
+      "address": "123 Healing Road",
+      "city": "Greenville",
+      "state": "Texas",
+      "zipCode": "75001",
+      "country": "USA"
+    },
+    "title": "General Surgeon Vacancy",
+    "description": "We are looking for a skilled general surgeon to perform routine and emergency surgical procedures.",
+    "qualifications": "MBBS, MS (General Surgery), 7+ years of experience in surgery.",
+    "shiftTime": {
+      "from": 768600531.0,
+      "to": 768600531.0
+    },
+    "wages": 1300,
+    "openings": 1,
+    "applicants": 3,
+    "postedDate": 768600531.0,
+    "deadline": 768600531.0,
+    "isActive": true
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "hospitalID": "e3c45678-df9a-40b7-8d5a-63b9b3c4f7e1",
+    "hospitalName": "Blue Ocean Medical Center",
+    "location": {
+      "address": "321 Care Lane",
+      "city": "Seaside",
+      "state": "Florida",
+      "zipCode": "33101",
+      "country": "USA"
+    },
+    "title": "Orthopedic Specialist Wanted",
+    "description": "Join our team as an orthopedic specialist to treat musculoskeletal conditions.",
+    "qualifications": "MBBS, MS (Orthopedics), 5+ years of experience in orthopedics.",
+    "shiftTime": {
+      "from": 768600531.0,
+      "to": 768600531.0
+    },
+    "wages": 1250,
+    "openings": 2,
+    "applicants": 2,
+    "postedDate": 768600531.0,
+    "deadline": 768600531.0,
+    "isActive": true
+  },
+  {
+    "id": "9f8c4e0a-2c97-467a-bf48-0d1b2b6a03f6",
+    "hospitalID": "c2a9f5d3-7e4b-4c2d-84f6-a7b93c5d0e1f",
+    "hospitalName": "Sunrise Medical Institute",
+    "location": {
+      "address": "567 Wellness Street",
+      "city": "Sunrise City",
+      "state": "Arizona",
+      "zipCode": "85001",
+      "country": "USA"
+    },
+    "title": "Radiologist Needed",
+    "description": "Looking for an experienced radiologist to interpret medical images and assist in diagnosis.",
+    "qualifications": "MBBS, MD (Radiology), 4+ years of experience in radiology.",
+    "shiftTime": {
+      "from": 768600531.0,
+      "to": 768600531.0
+    },
+    "wages": 1150,
+    "openings": 1,
+    "applicants": 0,
+    "postedDate": 768600531.0,
+    "deadline": 768600531.0,
+    "isActive": true
+  }
+]

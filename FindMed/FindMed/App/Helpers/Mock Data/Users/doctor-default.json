@@ -1,0 +1,46 @@
+{
+  "id": "doctor1",
+  "isVerified": true,
+  "credential": {
+    "email": "doctor.john@example.com",
+    "password": "password123"
+  },
+  "associatedHospitalID": "hospital1",
+  "personalInformation": {
+    "profileImage": "https://example.com/images/doctor_john.jpg",
+    "fullName": "Dr. John Doe",
+    "gender": "male",
+    "dateOfBirth": -651283200.0,
+    "phoneNumber": "+1234567890",
+    "emailAddress": "doctor.john@example.com",
+    "residentialAddress": "123 Medical Lane, MedCity",
+    "languagesSpoken": "English, Spanish"
+  },
+  "educationalBackground": {
+    "qualification": "MBBS, MD (Cardiology)",
+    "schoolName": "Harvard Medical School",
+    "graduationYear": 2005,
+    "academicAchievements": "Graduated with Honors",
+    "certifications": "Certified in Advanced Cardiac Life Support (ACLS)",
+    "residencyInformation": "Completed Cardiology Residency at Mayo Clinic",
+    "licenseInformation": "Medical License #1234567890"
+  },
+  "professionalBackground": {
+    "jobTitle": "Consultant Cardiologist",
+    "hospitalName": "City Hospital",
+    "workExperiences": "15+ years of experience in interventional cardiology",
+    "specialization": "Cardiology, Interventional Cardiology",
+    "skills": "Angioplasty, Pacemaker Implantation, Echocardiography",
+    "affiliations": "Member of the American College of Cardiology"
+  },
+  "documents": {
+    "medicalLicense": "https://example.com/documents/medical_license.pdf",
+    "degreeCertificates": "https://example.com/documents/degree_certificates.pdf",
+    "residencyCompletionCertificate": "https://example.com/documents/residency_certificate.pdf",
+    "medicalSchoolTranscript": "https://example.com/documents/school_transcript.pdf",
+    "boardCertification": "https://example.com/documents/board_certification.pdf",
+    "otherCertificates": "https://example.com/documents/other_certificates.pdf",
+    "identityProof": "https://example.com/documents/identity_proof.pdf",
+    "proofOfAddress": "https://example.com/documents/proof_of_address.pdf"
+  }
+}

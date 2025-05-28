@@ -1,0 +1,18 @@
+{
+  "id": "hospital1",
+  "credential": {
+    "email": "hospital.city@example.com",
+    "password": "securepassword123"
+  },
+  "name": "City Hospital",
+  "location": {
+    "address": "456 Hospital Street",
+    "city": "MedCity",
+    "state": "California",
+    "zipCode": "90210",
+    "country": "USA"
+  },
+  "phoneNumber": "+1234567890",
+  "emailAddress": "hospital.city@example.com",
+  "websiteURL": "https://cityhospital.com"
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NAME</key>
+    <string>Mohamed Bilal</string>
+    <key>FILEHEADER</key>
+    <string>
+// ___FILENAME___
+// ___PROJECTNAME___
+//
+// Created by ___NAME___ on ___DATE___
+//</string>
+</dict>
+</plist>
