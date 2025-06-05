@@ -1,6 +1,6 @@
 # 🏥 FindMed – Find Doctors Nearby
 
-**FindMed** is a modern iOS app that helps hospitals find part-time doctors and medical graduates nearby. It streamlines the hiring process with an intuitive interface and powerful features built for both hospitals and healthcare professionals.
+**FindMed** is a iOS app that helps hospitals find part-time doctors and medical graduates nearby. It streamlines the hiring process with an intuitive interface and powerful features built for both hospitals and healthcare professionals.
 
 ## 🚀 Features
 
@@ -40,5 +40,18 @@
 3. Build and run the app using a simulator or real device.
 
 ## 📸 Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8c6febd7-13a1-41ba-94e6-d584c09332e7"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e72be868-4d8b-45ca-9285-8e362837e2d2"/></td>
+    <td><img src="https://github.com/user-attachments/assets/be8f3f67-cfb5-448d-968c-87feea4eccac"/></td>
+    <td><img src="https://github.com/user-attachments/assets/da56eb76-b304-4033-b801-490fa8389227"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e0c65d00-f040-46c7-bf07-24052b5e9ca8"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b002c686-876e-4527-aaa1-02d93fbfc49e"/></td>
+  </tr>
+</table>
 
-*Add screenshots of key flows like home, post listings, chat, profile, etc.*
+
+
+
+
